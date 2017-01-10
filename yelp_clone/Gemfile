@@ -13,7 +13,7 @@ group :test do
   gem 'capybara'
   gem 'rspec-collection_matchers'
 end
-
+gem 'shoulda'
 gem 'envyable'
 gem 'devise'
 gem 'omniauth-facebook'
